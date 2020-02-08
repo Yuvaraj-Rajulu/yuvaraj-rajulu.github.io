@@ -1,8 +1,5 @@
 ## Yuvaraj Govindarajulu
 
-### Blogs
-Starting from January 2020, I am documenting the recent progress in Embedded AI for myself and also for people who would be interested in working with ML for Embeddeded Systems. 
-[Embedded AI - 2020](blogs/EAI_Journey.md)
 
 ### About
 I am Yuvaraj Govindarajulu, Studying MSc INFOTECH at University of Stuttgart.
@@ -24,6 +21,12 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Use of Tensorflow profiling to visualize tasks between CPU and GPU to identify performance bottlenecks.
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
 
+### Blogs
+Starting from January 2020, I am documenting the recent progress in Embedded AI for myself and also for people who would be interested in working with ML for Embeddeded Systems. 
+[Embedded AI - 2020](blogs/EAI_Journey.md)
+
+#### Stuttgart Hackathon 2018
+[Embedded AI - 2020](blogs/StuttgartHackathon2018/StuttgartHackathon_2018.md)
 
 
 ### StackUnderflow
