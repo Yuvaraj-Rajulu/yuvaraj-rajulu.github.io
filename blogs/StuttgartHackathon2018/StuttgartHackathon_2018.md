@@ -3,4 +3,4 @@
 
 ![](Fwd.gif)
 
-<img src="Fwd.gif" width="400" height="250" />
+<img src="Fwd.gif" width="400" height="220" />
