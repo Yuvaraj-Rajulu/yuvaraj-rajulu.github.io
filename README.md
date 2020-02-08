@@ -26,7 +26,7 @@ Starting from January 2020, I am documenting the recent progress in Embedded AI 
 [Embedded AI - 2020](blogs/EAI_Journey.md)
 
 #### Stuttgart Hackathon 2018
-[Embedded AI - 2020](blogs/StuttgartHackathon2018/StuttgartHackathon_2018.md)
+[Stuttgart Hackathon 2018](blogs/StuttgartHackathon2018/StuttgartHackathon_2018.md)
 
 
 ### StackUnderflow
