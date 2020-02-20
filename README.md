@@ -3,7 +3,7 @@
 
 ### About
 I am Yuvaraj Govindarajulu, Studying MSc INFOTECH at University of Stuttgart.
-Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__
+Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__[Final Presentation](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
 
 Current Position: Tutor, Deep Learning - Master Laborotory course, Institute of Signals and System Theory, University of Stuttgart.
 
