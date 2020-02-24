@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+
 title: [Yuvaraj Govindarajulu]
 description: Personal profile and blog
 logo: [Location of the logo]
