@@ -1,7 +1,9 @@
 # Contact
 
 ## Yuvaraj Govindarajulu
-Email : yuvaraj.rajulu@gmail.com 
+Email
+  [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
+  [st158830@stud.uni-stuttgart.de](mailto:st158830@stud.uni-stuttgart.de)
 
 ### Social Networking
 
