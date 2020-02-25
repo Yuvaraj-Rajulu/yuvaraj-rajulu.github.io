@@ -1,5 +1,7 @@
-## Yuvaraj Govindarajulu
+# Yuvaraj Govindarajulu
 
+|Projects|[Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)|[Blogs](blogs/EAI_Journey.md)|[Contact](https://de.linkedin.com/in/yuvaraj-govindarajulu)|
+|---|---|---|---|
 
 ### About
 I am Yuvaraj Govindarajulu, Studying MSc INFOTECH at University of Stuttgart.
