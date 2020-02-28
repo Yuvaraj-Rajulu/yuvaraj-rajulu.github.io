@@ -1,8 +1,10 @@
-# Projects
-In this section, you will find my (recent) projects. Click on individual project for more details.
+## Current Projects
+In this section, you will find some of my (recent) projects. 
 
 ### [HAR in an STM32 Nucleo-64 Board](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/blogs/STM32CubeAI/Overview.md)
 
+-----
+## Completed Projects
 -----
 
 ### Master Thesis
