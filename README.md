@@ -12,7 +12,7 @@ Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks
 
 Current Position: Tutor, Deep Learning - Master Laborotory course, Institute of Signals and System Theory, University of Stuttgart.
 
-Find me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu)
+Find me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu) or [Xing](https://www.xing.com/profile/Yuvaraj_Govindarajulu/cv). Write to me on [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
 
 #### Master Thesis
 Title: Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection
