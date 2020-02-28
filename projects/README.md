@@ -1,4 +1,4 @@
-|  [Home](https://yuvaraj8blr.github.io/)  |  [Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/blogs/EAI_Journey.md)  |  [Contact](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/contact.md)  |
+|  [Home](https://yuvaraj8blr.github.io/)  | 
 
 ## Current Projects
 In this section, you will find some of my (recent) projects. 
