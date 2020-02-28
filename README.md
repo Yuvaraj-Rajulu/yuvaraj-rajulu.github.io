@@ -27,13 +27,4 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
 
 
-#### Stuttgart Hackathon 2018
-[Stuttgart Hackathon 2018](blogs/StuttgartHackathon2018/StuttgartHackathon_2018.md)
-
-
-### StackUnderflow
-Many times in the near past, I tried to look for answers related to many problems and I could not find them anywhere online, some not even on stackoverflow. So I decided to write my own blogs on answers that I had to find out myself and call it __StackUnderflow__. (Pun Intended!)
-
-Link to my first Blog :
-[Differences between make_csv_dataset and CsvDataset in Tensorflow](docs/csvDataset.md)
 
