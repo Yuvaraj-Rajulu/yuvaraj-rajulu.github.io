@@ -1,6 +1,6 @@
 # Yuvaraj Govindarajulu
 
-|  [Projects](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/projects/README.md)  |  [Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
+|  [Projects](projects/README.md)  |  [Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
 
 
 ### About
