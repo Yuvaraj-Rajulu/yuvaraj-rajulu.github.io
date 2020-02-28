@@ -4,9 +4,7 @@
 
 
 ### About
-MSc INFOTECH in Embedded Systems at the University of Stuttgart.
-Actively looking for full-time positions in Embedded Systems / Embedded AI.
-
+Actively looking for full-time positions in Embedded Systems / Embedded AI. MSc INFOTECH in Embedded Systems at the University of Stuttgart.
 
 With over 5 years of experience in Embedded systems, I started my masters in Embedded Systems with special focus on Machine Learning (ML) and Deep Learning (DL). Aspiring to contribute in __Embedded AI__, I was successful with my projects and master thesis involving sensors, embedded and AI aspects. I am looking for a full-time position in Embedded, where I can also use my experiences and skills of ML and DL to provide promising real-world solutions across various domains.
 
@@ -25,6 +23,3 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Libraries used: Tensorflow, Keras, Matplotlib, Scikit, Pandas among others.
 -	Use of Tensorflow profiling to visualize tasks between CPU and GPU to identify performance bottlenecks.
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
-
-
-
