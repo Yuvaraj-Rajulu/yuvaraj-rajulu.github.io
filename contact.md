@@ -1,4 +1,4 @@
-|  [Home](https://yuvaraj8blr.github.io/)  |   
+ [Home](https://yuvaraj8blr.github.io/) 
 # Contact
 
 ## Yuvaraj Govindarajulu
