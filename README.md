@@ -4,13 +4,15 @@
 
 
 ### About
-I am a Master student, Studying MSc (INFOTECH) at the University of Stuttgart.
+MSc INFOTECH in Embedded Systems at the University of Stuttgart.
+Actively looking for full-time positions in Embedded Systems / Embedded AI.
+
+
+With over 5 years of experience in Embedded systems, I started my masters in Embedded Systems with special focus on Machine Learning (ML) and Deep Learning (DL). Aspiring to contribute in __Embedded AI__, I was successful with my projects and master thesis involving sensors, embedded and AI aspects. I am looking for a full-time position in Embedded, where I can also use my experiences and skills of ML and DL to provide promising real-world solutions across various domains.
 
 Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
 
 Current Position: Tutor, Deep Learning - Master Laborotory course, Institute of Signals and System Theory, University of Stuttgart.
-
-With over 5 years of experience in Embedded systems, I started my masters in Embedded Systems with special focus on Machine Learning (ML) and Deep Learning (DL). Aspiring to contribute in __Embedded AI__, I was successful with my projects and master thesis involving sensors, embedded and AI aspects. I am looking for a full-time position in Embedded, where I can also use my experiences and skills of ML and DL to provide promising real-world solutions across various domains.
 
 Find me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu)
 
