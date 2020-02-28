@@ -10,7 +10,7 @@ With over 5 years of experience in Embedded systems, I started my masters in Emb
 
 Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
 
-Current Position: Tutor, Deep Learning - Master Laborotory course, Institute of Signals and System Theory, University of Stuttgart.
+Current Position: Tutor, Deep Learning - Master Laboratory course, Institute of Signals and System Theory, University of Stuttgart.
 
 Connect with me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu) or [Xing](https://www.xing.com/profile/Yuvaraj_Govindarajulu/cv). Write to me on [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
 
