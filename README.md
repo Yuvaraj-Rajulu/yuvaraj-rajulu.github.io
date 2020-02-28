@@ -23,3 +23,4 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Libraries used: Tensorflow, Keras, Matplotlib, Scikit, Pandas among others.
 -	Use of Tensorflow profiling to visualize tasks between CPU and GPU to identify performance bottlenecks.
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
+- [Thesis Presentation](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
