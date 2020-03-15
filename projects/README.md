@@ -10,7 +10,8 @@ In this section, you will find some of my (recent) projects.
 -----
 
 ### Master Thesis
-**Human Activity Recognition and Study of Dynamic Filter Networks for Position aware detection** [Link to Thesis Presentation](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf). 
+**Human Activity Recognition and Study of Dynamic Filter Networks for Position aware detection** 
+([Link to Thesis Presentation])(https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf). 
 
 
 For more details on the thesis, write to me on: [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
