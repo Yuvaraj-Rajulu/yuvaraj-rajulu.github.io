@@ -1,5 +1,22 @@
 |  [Home](https://yuvaraj8blr.github.io/)  | 
 
+## Topics to Explore (Ongoing)
+### Model Update
+- AI-Model Update on STM32 using SBSFU Framework
+- Delta AI-Model Update on STM32 using SBSFU Framework
+
+### Debugging Embedded-AI
+- Explore Embedded-AI Debugging methodologies
+- Can Explainable Embedded-AI pave way to Debugging on Embedded devices?
+- What are the important factors to consider when Debugging AI-Models on Embedded Systems?
+
+### Embedded Architecture for Embedded-AI
+ - generic architecture for Emb-AI (Focus: Ease of deployment, Integration and Inference Rate)
+
+### Non-Linear Quantization Methods
+
+
+
 ## Current Projects
 In this section, you will find some of my (recent) projects. 
 
