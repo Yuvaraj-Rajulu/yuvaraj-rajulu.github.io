@@ -3,14 +3,21 @@
 |  [Projects](projects/README.md)  |  [Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
 
 
-### About
-Actively looking for full-time positions in Embedded Systems / Embedded AI. MSc INFOTECH in Embedded Systems at the University of Stuttgart.
+## About
+Embedded Lead - Secure Embedded AI Research at Bosch, Bengaluru (India)
 
-With over 5 years of experience in Embedded systems, I started my masters in Embedded Systems with special focus on Machine Learning (ML) and Deep Learning (DL). Aspiring to contribute in __Embedded AI__, I was successful with my projects and master thesis involving sensors, embedded and AI aspects. I am looking for a full-time position in Embedded, where I can also use my experiences and skills of ML and DL to provide promising real-world solutions across various domains.
+Areas of Interest include - Embedded AI, TinyML, Secure Firmware Update, Secure Boot, Timeseries data & Signal Processing.
 
-Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
+### Education
+Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttgart (Germany), with focus on AI for Embedded Systems. 
 
-Current Position: Tutor, Deep Learning - Master Laboratory course, Institute of Signals and System Theory, University of Stuttgart.
+#### Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
+
+#### Previous Positions
+- Embedded Software Engineer (HMI & Secure Bootloader), Lorch Schweisstechnik, Auenwald (Germany)
+- Tutor, Deep Learning - Master Laboratory course, Institute of Signals and System Theory, University of Stuttgart (Germany)
+- Working Student - Embedded Prototyping for Automotive ECUs, Robert Bosch GmbH, Schwieberdingen (Germany)
+- Senior Software Engineer - Complex Drivers Development - Fuel Injection Software for Automotive ECUs, Robert Bosch, Bengaluru (India)
 
 Connect with me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu) or [Xing](https://www.xing.com/profile/Yuvaraj_Govindarajulu/cv). Write to me on [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
 
