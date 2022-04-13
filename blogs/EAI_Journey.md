@@ -1,4 +1,4 @@
-|  [Home](https://yuvaraj8blr.github.io/)  | 
+|  [Home](https://yuva-rajulu.github.io/)  | 
 
 # Documenting the progress and learnings in Embedded AI from time to time
 
