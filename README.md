@@ -1,6 +1,6 @@
 # Yuvaraj Govindarajulu
 
-|  [Projects](projects/README.md)  |  [Master Thesis](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
+|  [Projects](projects/README.md)  |  [Master Thesis](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
 
 
 ## About
@@ -11,7 +11,7 @@ Areas of Interest include - Embedded AI, TinyML, Secure Firmware Update, Secure 
 ### Education
 Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttgart (Germany), with focus on AI for Embedded Systems. 
 
-#### Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
+#### Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
 
 #### Previous Positions
 - Embedded Software Engineer (HMI & Secure Bootloader), Lorch Schweisstechnik, Auenwald (Germany)
@@ -32,4 +32,4 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
 
 
-Links: [Thesis Presentation](https://github.com/Yuvaraj8blr/yuvaraj8blr.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
+Links: [Thesis Presentation](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
