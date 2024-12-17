@@ -1,6 +1,6 @@
 # Yuvaraj Govindarajulu
 
-|  [Projects](projects/README.md)  |  [Publications and Talks](https://github.com/Yuvaraj-Rajulu/yuvaraj-rajulu.github.io/tree/master/publications_talks/readme.md) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
+|  [Publications and Talks](https://github.com/Yuvaraj-Rajulu/yuvaraj-rajulu.github.io/tree/master/publications_talks/readme.md) |  [Contact](contact.md)  |
 
 
 ## About
@@ -11,10 +11,10 @@ Focus Topics: AI Security, AI RedTeaming, AI Trustworthiness.
 Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttgart (Germany), with focus on Artificial Intelligence.
 
 #### Previous Positions
-- Embedded Software Engineer (HMI & Secure Bootloader), Lorch Schweisstechnik, Auenwald (Germany)
-- Tutor, Deep Learning - Master Laboratory course, Institute of Signals and System Theory, University of Stuttgart (Germany)
-- Working Student - Embedded Prototyping for Automotive ECUs, Robert Bosch GmbH, Schwieberdingen (Germany)
-- Senior Software Engineer - Complex Drivers Development - Fuel Injection Software for Automotive ECUs, Robert Bosch, Bengaluru (India)
+- 2020-2021, Embedded Software Engineer (HMI & Secure Bootloader), Lorch Schweisstechnik, Auenwald (Germany)
+- 2019-2020, Tutor, Deep Learning - Master Laboratory course, Institute of Signals and System Theory, University of Stuttgart (Germany)
+- 2017-2019, Working Student - Embedded Prototyping for Automotive ECUs, Robert Bosch GmbH, Schwieberdingen (Germany)
+- 2012-2017, Senior Software Engineer - Complex Drivers Development - Fuel Injection Software for Automotive ECUs, Robert Bosch, Bengaluru (India)
 
 #### Memberships:
 - Core Author, [OWASP AI Exchange](https://owaspai.org/) (AI Red Teaming), Since May 2024
