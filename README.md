@@ -1,17 +1,14 @@
 # Yuvaraj Govindarajulu
 
-|  [Projects](projects/README.md)  |  [Master Thesis](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
+|  [Projects](projects/README.md)  |  [Publications and Talks](https://github.com/Yuvaraj-Rajulu/yuvaraj-rajulu.github.io/tree/master/publications_talks/readme.md) |  [Blog](blogs/EAI_Journey.md)  |  [Contact](contact.md)  |
 
 
 ## About
-Embedded Lead - Secure Embedded AI Research at Bosch, Bengaluru (India)
-
-Areas of Interest include - Embedded AI, TinyML, Secure Firmware Update, Secure Boot, Timeseries data & Signal Processing.
+Head of Research - AIShield, Bosch Global Software Technologies, Bengaluru (India)
+Focus Topics: AI Security, AI RedTeaming, AI Trustworthiness. 
 
 ### Education
-Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttgart (Germany), with focus on AI for Embedded Systems. 
-
-#### Master Thesis: __Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection__ [(Thesis Presentation)](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
+Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttgart (Germany), with focus on Artificial Intelligence.
 
 #### Previous Positions
 - Embedded Software Engineer (HMI & Secure Bootloader), Lorch Schweisstechnik, Auenwald (Germany)
@@ -19,7 +16,17 @@ Master of Science (INFOTECH - Embedded Systems), University of Stuttgart, Stuttg
 - Working Student - Embedded Prototyping for Automotive ECUs, Robert Bosch GmbH, Schwieberdingen (Germany)
 - Senior Software Engineer - Complex Drivers Development - Fuel Injection Software for Automotive ECUs, Robert Bosch, Bengaluru (India)
 
-Connect with me on [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu) or [Xing](https://www.xing.com/profile/Yuvaraj_Govindarajulu/cv). Write to me on [yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
+#### Memberships:
+- Core Author, [OWASP AI Exchange](https://owaspai.org/) (AI Red Teaming), Since May 2024
+- Member, [Technical Committee - Securing AI](https://www.etsi.org/technologies/securing-artificial-intelligence), European Telecom Standards Institute (ETSI), Since Aug 2022
+- Member, [WG4 - Security Controls and Services Working Group](https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/dgdashboard/committee_sso/composition/66/5), ISO/IEC/JTC1 SC27.
+- Panel Member, [Panel P6 - For inputs on JTC 1/SC 27 Documents Panel](https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/dgdashboard/committee_sso/composition/237/4), LITD 17 (Information Systems Security and Privacy), Bureau of Indian Standards ((Mirroring Committee ISO) 
+
+Contact: 
+- [LinkedIn](https://de.linkedin.com/in/yuvaraj-govindarajulu) 
+- [Xing](https://www.xing.com/profile/Yuvaraj_Govindarajulu/cv)
+- [Email: yuvaraj.rajulu@gmail.com](mailto:yuvaraj.rajulu@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=Mjctn_sAAAAJ&hl=en)
 
 #### Master Thesis
 Title: Human Activity Recognition and Study of Dynamic Filter Networks for Position-aware detection
@@ -30,6 +37,5 @@ Title: Human Activity Recognition and Study of Dynamic Filter Networks for Posit
 -	Libraries used: Tensorflow, Keras, Matplotlib, Scikit, Pandas among others.
 -	Use of Tensorflow profiling to visualize tasks between CPU and GPU to identify performance bottlenecks.
 -	Deployment of trained model on an Android smartphone using Tensorflow lite.
-
 
 Links: [Thesis Presentation](https://github.com/yuva-rajulu/yuva-rajulu.github.io/blob/master/docs/MasterThesis_Presentation-min.pdf)
