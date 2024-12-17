@@ -4,7 +4,9 @@
 
 
 ## About
-Head of Research - AIShield, Bosch Global Software Technologies, Bengaluru (India)
+**Head of Research** - AIShield, Bosch Global Software Technologies, Bengaluru (India)
+
+
 Focus Topics: AI Security, AI RedTeaming, AI Trustworthiness. 
 
 ### Education
