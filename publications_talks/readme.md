@@ -17,10 +17,15 @@
 
 ## Talks 
 1. **Eine praktische Lösung für die vertrauenswürdige Nutzung von LLMs in Unternehmen** [German], BSI 20. IT Security Congress, Germany · May 7, 2024, [Kongress Publication - Page 186](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Veranstaltungen/ITSiKongress/20ter/Kongressdokumentation_2024.pdf?__blob=publicationFile&v=5)
+
 2. **Die Notwendigkeit, KI-Assets zu sichern** [German], Forum IT-SA Expo 2023, Nurnberg · Oct 10, 2023, [Kongress](https://www.itsa365.de/de-de/actions-events/2023/it-sa-expo-foren-2023/knowledge-d/die-notwendigkeit-ki-assets-zu-sichern-sits-swissit)
+
 3. **Navigating the Generative AI Revolution: Ensuring Compliance and Security in the Era of LLMs with Guardrails** [Webinar: English], AI Infrastructure Alliance · Sep 15, 2023, [Webinar](https://community.ai-infrastructure.org/public/videos/aishield-navigating-the-generative-ai-revolution-ensuring-compliance-and-security-in-the-era-of-llms-with-guardrails-2023-09-14)
+
 4. **Protect your raison d'etre – Artificial Intelligence** [English], Jan 5, 2023, [Workshop on Trustworthy AI, Microsoft Research, Bengaluru, India](https://trust-ai-workshop.github.io/)
+
 5. **Attacks on Tiny Intelligence (TinyMLSec)**, TinyML Asia 2022 · Nov 29, 2022 [Conference](https://www.tinyml.org/event/asia-2022/#speakers), [Publication](https://www.youtube.com/watch?v=CYc3RHZxzqY)
+
 6. **Attacks on Tiny Intelligence**, AIVillage, DEFCON30 · Aug 14, 2022, [Conference](https://aivillage.org/defcon%2030/defcon30-sunday/#attacks-on-tiny-intelligence)
 
 ## Preprints
