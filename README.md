@@ -1,6 +1,6 @@
 # Yuvaraj Govindarajulu
 
-|  [Publications and Talks](https://github.com/Yuvaraj-Rajulu/yuvaraj-rajulu.github.io/tree/master/publications_talks/readme.md) |  [Contact](contact.md)  |
+|  [Publications and Talks](publications_talks/readme.md) |  [Contact](contact.md)  |
 
 
 ## About
