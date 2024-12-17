@@ -4,11 +4,11 @@
 
 ## Conference Papers and Posters
 1. **Arjun, E. R. R., Kulkarni, P., Govindarajulu, Y., Shah, H., & Parmar, M. (2024).** *Evasion Attacks on Object Detection Models using Attack Transferability.* In *2024 IEEE Secure Development Conference (SecDev)* (pp. 28–34). IEEE.
-2. **Shah, P., Govindarajulu, Y., Kulkarni, P., & Parmar, M. (2024).** *Enhancing TinyML Security: Study of Adversarial Attack Transferability.* [Conference-TinyML EMEA Innovation Forum](https://horizon-cobalt.eu/cobalt-emea2024/), Milan June 2024, . [https://arxiv.org/abs/2407.11599](https://arxiv.org/abs/2407.11599)
+2. **Shah, P., Govindarajulu, Y., Kulkarni, P., & Parmar, M. (2024).** *Enhancing TinyML Security: Study of Adversarial Attack Transferability.* [Conference-TinyML EMEA Innovation Forum](https://horizon-cobalt.eu/cobalt-emea2024/), Milan June 2024, . [Conference Paper](https://arxiv.org/abs/2407.11599)
 
 3. **Shah, H., Aravindhan, G., Kulkarni, P., Govindarajulu, Y., & Parmar, M. (2023).** *Data-Free Model Extraction Attacks in the Context of Object Detection.* In *International Conference on Computer Vision Systems* (pp. 391–402). Springer Nature Switzerland, Cham.
 
-4. **Bhardwaj, G., Govindarajulu, Y., Narayanan, S., Kulkarni, P., & Parmar, M. (2023).** *On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images.* NeurIPS Workshop - Medical Imaging meets NeurIPS. [Workshop](https://neurips.cc/virtual/2023/workshop/66536#wse-detail-82499) [https://arxiv.org/abs/2312.06979](https://arxiv.org/abs/2312.06979)
+4. **Bhardwaj, G., Govindarajulu, Y., Narayanan, S., Kulkarni, P., & Parmar, M. (2023).** *On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images.* NeurIPS Workshop - Medical Imaging meets NeurIPS. [Workshop](https://neurips.cc/virtual/2023/workshop/66536#wse-detail-82499) [Publication-Abstract](https://arxiv.org/abs/2312.06979)
 
 5. **Shah, P., Govindarajulu, Y., Kulkarni, P., & Parmar, M. (2023).** *Exploring AI Attacks on Hardware Accelerated Targets.* In *2023 IEEE 2nd International Conference on Data, Decision and Systems (ICDDS)* (pp. 1–6). IEEE.
 
